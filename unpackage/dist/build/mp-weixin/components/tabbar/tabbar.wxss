@@ -1,0 +1,1 @@
+.tabbar.data-v-1b9602c4{display:-webkit-box;display:-webkit-flex;display:flex;text-align:center;background:#fff;height:80rpx;line-height:80rpx;font-size:28rpx}.tabbar .item.data-v-1b9602c4{-webkit-box-flex:1;-webkit-flex:1;flex:1}.tabbar .text.data-v-1b9602c4{padding:20rpx}.tabbar .active.data-v-1b9602c4{color:#e43130;border-bottom:8rpx solid #e43130}

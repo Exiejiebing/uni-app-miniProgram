@@ -1,0 +1,1 @@
+.list{padding-top:20rpx;display:-webkit-box;display:-webkit-flex;display:flex;-webkit-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:space-evenly;-webkit-justify-content:space-evenly;justify-content:space-evenly;background-color:#e4e7ed;height:100%}.list .item{width:45%;background:#fff;margin-bottom:20rpx;text-align:center;border-radius:20rpx}

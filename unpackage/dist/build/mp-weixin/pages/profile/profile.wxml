@@ -1,0 +1,1 @@
+<view><user-info vue-id="23b2e5ec-1" data="{{user}}" isLogin="{{isLogin}}" bind:__l="__l"></user-info><other vue-id="23b2e5ec-2" bind:__l="__l"></other><block wx:if="{{isLogin}}"><logout vue-id="23b2e5ec-3" bind:__l="__l"></logout></block></view>

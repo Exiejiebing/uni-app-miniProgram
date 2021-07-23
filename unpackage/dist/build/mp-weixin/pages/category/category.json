@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "分类",
+  "usingComponents": {
+    "leftnav": "/pages/category/childComp/leftnav",
+    "rightgoods": "/pages/category/childComp/rightgoods"
+  }
+}

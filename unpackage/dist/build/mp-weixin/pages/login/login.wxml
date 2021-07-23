@@ -1,0 +1,1 @@
+<block wx:if="{{!isLogin}}"><view class="login data-v-6ecb9c4d"><image src="/static/images/cart/cart.png" mode="widthFix" class="data-v-6ecb9c4d"></image><view class="text data-v-6ecb9c4d">请完成微信授权以继续使用</view><button type="warn" data-event-opts="{{[['tap',[['authUserOnClick',['$event']]]]]}}" bindtap="__e" class="data-v-6ecb9c4d">授权微信用户信息</button></view></block>

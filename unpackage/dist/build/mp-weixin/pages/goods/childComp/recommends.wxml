@@ -1,0 +1,1 @@
+<view class="recommends data-v-63b07c20"><view class="title data-v-63b07c20">看了又看</view><goodslist vue-id="020c1ed9-1" list="{{list}}" class="data-v-63b07c20" bind:__l="__l"></goodslist></view>

@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "tabbar": "/components/tabbar/tabbar",
+    "backtop": "/components/backtop/backtop",
+    "swiper": "/components/swiper/swiper",
+    "info": "/pages/goods/childComp/info",
+    "content": "/pages/goods/childComp/content",
+    "recommends": "/pages/goods/childComp/recommends",
+    "comments": "/pages/goods/childComp/comments",
+    "bottomnav": "/pages/goods/childComp/bottomnav"
+  }
+}

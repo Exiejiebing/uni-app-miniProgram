@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['onClick',['$event']]]]]}}" class="back" bindtap="__e"><image src="/static/images/other/backtop.png" mode="widthFix"></image></view>

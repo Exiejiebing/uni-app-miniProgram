@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/category/childComp/rightgoods"],{"14ea":function(t,e,n){},"5ec4":function(t,e,n){"use strict";(function(t){Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var n={name:"rightgoods",data:function(){return{scrollTop:0}},props:{list:{type:Array,default:[]},currentId:{type:Number,default:0},isShowLoadMore:{type:Boolean,default:!1},status:{type:String,default:"more"},contentText:{type:Object,default:{contentdown:"加载更多~",contentrefresh:"加载中",contentnomore:"我是有底线的~"}}},methods:{onClick:function(e){t.navigateTo({url:"/pages/goods/detail?id="+e})},scrolltolower:function(){this.$emit("scrolltolower")},scroll:function(t){this.scrollTop=t.detail.scrollTop}},watch:{currentId:function(t){var e=this;console.log("!!!!"),this.$nextTick((function(){e.scrollTop=0}))}}};e.default=n}).call(this,n("543d")["default"])},"87c4":function(t,e,n){"use strict";n.d(e,"b",(function(){return r})),n.d(e,"c",(function(){return c})),n.d(e,"a",(function(){return o}));var o={uniLoadMore:function(){return n.e("uni_modules/uni-load-more/components/uni-load-more/uni-load-more").then(n.bind(null,"19a5"))}},r=function(){var t=this,e=t.$createElement;t._self._c},c=[]},a94b:function(t,e,n){"use strict";n.r(e);var o=n("5ec4"),r=n.n(o);for(var c in o)"default"!==c&&function(t){n.d(e,t,(function(){return o[t]}))}(c);e["default"]=r.a},c70c:function(t,e,n){"use strict";n.r(e);var o=n("87c4"),r=n("a94b");for(var c in r)"default"!==c&&function(t){n.d(e,t,(function(){return r[t]}))}(c);n("e96e");var u,a=n("f0c5"),l=Object(a["a"])(r["default"],o["b"],o["c"],!1,null,"6fe641f8",null,!1,o["a"],u);e["default"]=l.exports},e96e:function(t,e,n){"use strict";var o=n("14ea"),r=n.n(o);r.a}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'pages/category/childComp/rightgoods-create-component',
+    {
+        'pages/category/childComp/rightgoods-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("c70c"))
+        })
+    },
+    [['pages/category/childComp/rightgoods-create-component']]
+]);

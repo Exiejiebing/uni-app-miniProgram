@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "图书兄弟",
+  "usingComponents": {
+    "tabbar": "/components/tabbar/tabbar",
+    "goodslist": "/components/goodslist/goodslist",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more",
+    "backtop": "/components/backtop/backtop",
+    "swiper": "/components/swiper/swiper",
+    "recommend": "/pages/index/childComp/recommend"
+  }
+}

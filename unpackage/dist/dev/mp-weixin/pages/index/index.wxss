@@ -1,0 +1,13 @@
+
+.index.data-v-57280228 {
+	font-family: monospace, monospace;
+	font-size: 28rpx;
+	color: #666666;
+}
+.tabbar.data-v-57280228 {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+

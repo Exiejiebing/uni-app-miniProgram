@@ -1,0 +1,1 @@
+<view class="logout data-v-11aaba88"><button type="warn" data-event-opts="{{[['tap',[['onClick',['$event']]]]]}}" bindtap="__e" class="data-v-11aaba88">退出登录</button></view>
